@@ -2,7 +2,7 @@
 let myContainer = document.getElementById('mioContenitore');
 
 
-let domanda = parseInt(prompt("Scegli un numero e ti dirò se è multiplo di 3, di 5, di entrambi o di nessuno"));
+let domanda = parseInt(prompt("Scegli un numero da 1 a 100 e ti dirò se è multiplo di 3, di 5, di entrambi o di nessuno"));
 
 
 if (domanda%3 == 0 && domanda%5 == 0){

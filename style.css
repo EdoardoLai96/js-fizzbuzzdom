@@ -67,3 +67,39 @@ h1{
     justify-content: center;
     align-items: center;
 }
+
+.contenitore-legenda{
+    display: flex;
+}
+
+.box-multiplo-3.scale{
+    transform: scale(0.6);
+    justify-content: center;
+    padding: 0 5px;
+    display: flex;
+}
+
+.box-multiplo-3-5.scale{
+    transform: scale(0.6);
+    justify-content: center;
+    padding: 0 5px;
+    display: flex;
+}
+
+.box-multiplo-5.scale{
+    transform: scale(0.6);
+    justify-content: center;
+    padding: 0 5px;
+    display: flex;
+}
+
+.box-normale.scale{
+    transform: scale(0.6);
+    justify-content: center;
+    padding: 0 5px;
+    display: flex;
+}
+
+h2 {
+    margin-left: 50px;
+}
